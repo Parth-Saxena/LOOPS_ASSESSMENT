@@ -25,3 +25,5 @@ public class Sum_num
         
     }
 }
+
+//this is question number 1.
